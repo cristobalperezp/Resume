@@ -1,4 +1,2 @@
-# hello-world
-My 1st and public repository
 
-My name is Cristóbal Pérez
+My name is Cristóbal Pérez, here you can find my resume.
